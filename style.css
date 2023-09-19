@@ -13,12 +13,12 @@ header {
 
 .logo {
     width: 15%;
-    padding-left: 102px;
+    padding-left: 10%;
     padding-top: 2.5%;
     padding-bottom: 0.5%;
 }
 
-main {
+main, footer {
     width: 80%;
     margin: auto;
 }
@@ -72,11 +72,6 @@ thead {
 
 .lightblue-line {
     background-color: lightblue;
-}
-
-footer {
-    width: 80%;
-    margin: auto;
 }
 
 #footer-interest {
