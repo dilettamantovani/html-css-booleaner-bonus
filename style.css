@@ -58,6 +58,7 @@ h1 {
 
 table {
     text-align: left;
+    border-collapse: collapse;
 }
 
 .long-td {
