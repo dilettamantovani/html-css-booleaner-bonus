@@ -1,0 +1,97 @@
+body {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    background-color: rgb(87, 181, 240);
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+    background-repeat: repeat-x;
+}
+
+.logo {
+    width: 15%;
+    padding-left: 8px;
+    padding-top: 2.5%;
+    padding-bottom: 0.5%;
+}
+
+main {
+    padding-left: 5px;
+}
+
+h1 {
+    margin-bottom: 0%;
+    margin-top: 1%;
+    font-size: xx-large;
+}
+
+#author {
+    margin-top: 0%; 
+    margin-bottom: 0%;
+    color: rgb(109, 109, 109);
+    font-size: medium;
+    font-weight: 600;
+}
+
+#day {
+    margin-top: 0%;
+    color: rgb(109, 109, 109);
+    font-size: small;
+}
+
+#author-link {
+    color: rgb(95, 228, 233);
+    text-decoration: none;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.list {
+    padding-left: 1.2%;
+}
+
+table {
+    text-align: left;
+}
+
+.long-td {
+    width: 45%;
+}
+
+thead {
+    background-color: rgb(103, 186, 241);
+    color: white;
+}
+
+.lightblue-line {
+    background-color: lightblue;
+}
+
+#footer-interest {
+    font-weight: 600;
+    color: rgb(109, 109, 109);
+}
+
+#footer-monitor {
+    background-image: url(../img/monitor.jpg);
+    width: 265px;
+    height: 125px;
+    color: white;
+    font-size: large;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+#footer-graph {
+    background-image: url(../img/graph.jpg);
+    width: 265px;
+    height: 125px;
+    color: white;
+    font-size: large;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
