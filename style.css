@@ -5,7 +5,7 @@ body {
 
 header {
     background-color: rgb(87, 181, 240);
-    background-image: url(../img/pattern.png);
+    background-image: url(img/pattern.png);
     background-size: 30%;
     background-repeat: repeat-x;
 }
@@ -77,7 +77,7 @@ thead {
 }
 
 #footer-monitor {
-    background-image: url(../img/monitor.jpg);
+    background-image: url(img/monitor.jpg);
     width: 265px;
     height: 125px;
     color: white;
@@ -87,7 +87,7 @@ thead {
 }
 
 #footer-graph {
-    background-image: url(../img/graph.jpg);
+    background-image: url(img/graph.jpg);
     width: 265px;
     height: 125px;
     color: white;
